@@ -1,4 +1,4 @@
 # Coordinate-Sniper
 ## 坐标狙击手
 
-![](https://imgse.com/i/pAudVLd)
+[![pAudVLd.png](https://s21.ax1x.com/2024/09/15/pAudVLd.png)](https://imgse.com/i/pAudVLd)
